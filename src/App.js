@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Login</h1>
+      <h1 className="title">Login PUCPR</h1>
       <div className="input-group">
         <label htmlFor="email">E-mail:</label>
         <input 
