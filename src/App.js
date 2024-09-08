@@ -7,7 +7,7 @@ function App() {
   const [mensagem, setMensagem] = useState('');
 
   const handleAcessar = () => {
-    if (email === 'eduardo.lino@pucpr.br' && senha === '123456') {
+    if (email === 'teste@pucpr.br' && senha === 'teste') {
       setMensagem('Acessado com sucesso!');
     } else {
       setMensagem('Usuário ou senha incorretos!');
