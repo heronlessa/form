@@ -1,5 +1,5 @@
 Olá,
-Este é um projeto realizado com o intuito de testar funcionalidades NodeJS,
+Este é um projeto realizado com o intuito de testar funcionalidades NodeJS.
 
 ## Instalação
 **Pré-requisitos:**
